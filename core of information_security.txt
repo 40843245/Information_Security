@@ -1,0 +1,19 @@
+In this article, I will discuss about 
+the core concepts of building a safe environment for users.
+
+-----------------------------
+(2.1)A view of a company:
+When these things are implemented in daily life, the company will be safer.
+
+(2.1.1)Use safe server to handle the data.
+Microsoft Azure, AWS , Google Cloud Platform are the safest servers.
+(2.1.2)Consolidate the fundamental concept of security for anyone who are in the company.
+(2.1.3)Increase the ability of handling emergency of security and check the ability for anyone who are in the company.
+(2.1.4)Check the encryption currently used can provide a safe environment.
+(2.1.5)Minimize the access privilege as possible.
+(2.1.6)Use a safe firewall.
+
+-----------------------------
+[ref]
+(1)Chinese version:
+https://www.thenewslens.com/article/178497
