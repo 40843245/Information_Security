@@ -1,4 +1,6 @@
 ------------------------------------------
 [ref]
-(1)Chines version.
+(1)Chinese version.
 https://buzzorange.com/techorange/2020/06/03/cybersecutiry-threat-vulnerabilities-101/
+(2)Chinese version:
+https://buzzorange.com/techorange/2020/07/13/network-vulnerability/
