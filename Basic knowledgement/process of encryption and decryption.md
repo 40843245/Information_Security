@@ -13,11 +13,20 @@ Now, you may have came up with questions, how to encrypt and decrypt it?
 
 There are two major category to encrypt the plaintext.
 
+Traditional cryptography:
+
     1) Symmetric cryptography (中文譯:對稱加密法)
     2) Asymmetric cryptography (中文譯:非對稱加密法) (also called public-key cryptography) (中文譯:又稱公開加密法)
     
     Asymmetric cryptography == public-key cryptography
     
+Emerging cryptography:
+
+    3) Digital signature
+    
+    
+Since digital signature is developed in recentl year, I will not discuss this approaches.
+
 ## Symmetric cryptography
 
 Suppose Allen want to send a message "Hello World" to Bob.
@@ -37,6 +46,9 @@ NOTE that
     
     3) Here a safe algorithm refers an algorithm which, for any ciphertext, it can NOT be decrypted in available time (theoretically, it is the best to use a NP-time algorithm.)
     
+## Ref
+
+https://en.wikipedia.org/wiki/Symmetric-key_algorithm
     
 ## Asymmetric cryptography
 
@@ -69,11 +81,7 @@ There are lots of interesting features in asymmetric cryptography.
 We always have
         
         m = d(c(m))
-    
-
-
-
-
+  
 ### NOTE that
  NOTE that 
     
@@ -86,3 +94,8 @@ We always have
     3) The public is available for anyone. However, without the private key, it is very hard to decrypt the ciphertext to plaintext (even for a long time) 
     (For a strong message, it is NOT available to decrypt. It may take over than a century. Here a strong message like a strong password.)
     
+## Ref
+https://en.wikipedia.org/wiki/Public-key_cryptography
+
+# Ref
+https://en.wikipedia.org/wiki/Cryptography
