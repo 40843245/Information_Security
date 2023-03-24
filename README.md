@@ -1,4 +1,4 @@
-# Infomation_Security
+# Information_Security
 I will place some information about information security.
 
 # Article
