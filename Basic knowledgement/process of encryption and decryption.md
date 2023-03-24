@@ -99,3 +99,5 @@ https://en.wikipedia.org/wiki/Public-key_cryptography
 
 # Ref
 https://en.wikipedia.org/wiki/Cryptography
+
+https://ithelp.ithome.com.tw/articles/10248442
